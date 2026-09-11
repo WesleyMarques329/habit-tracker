@@ -1,6 +1,6 @@
 # Disciplina
 
-Rastreador de hábito único (nofap) para Android, com grade de contribuições no estilo GitHub
+Rastreador de hábito único para Android, com grade de contribuições no estilo GitHub
 e widget para tela inicial e tela de bloqueio.
 
 ## O que o app faz
